@@ -6,8 +6,6 @@ Quick Way to Hire A Taxi - Point-to-Point Fare Management
 
 ![Screenshot 2023-08-26 174716](https://github.com/smi-ishtiaque/Taxi-Express-Flutter-App/assets/118915848/820bb9fb-b63f-4977-8821-a62d2b8cbf5a)
 
-![Screenshot 2023-08-26 174716](https://github.com/smi-ishtiaque/Taxi-Express-Flutter-App/assets/118915848/820bb9fb-b63f-4977-8821-a62d2b8cbf5a)
-
 ![Screenshot 2023-08-26 174750](https://github.com/smi-ishtiaque/Taxi-Express-Flutter-App/assets/118915848/b06dfdcc-0361-45f7-a324-1967a1461400)
 
 # Snapshots
